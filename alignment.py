@@ -1,4 +1,3 @@
-# This is the global alignment.
 # Author: Hao Li
 CONFIG_PATH = '/Users/saw008/Studies/CWRU/2019.Fall/EECS_458-Intro to Bioinformatics/Homework/W2/test_config.txt'
 
