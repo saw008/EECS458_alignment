@@ -1,5 +1,5 @@
 # Author: Hao Li
-CONFIG_PATH = '/Users/saw008/Studies/CWRU/2019.Fall/EECS_458-Intro to Bioinformatics/Homework/W2/test_config.txt'
+CONFIG_PATH = 'test_config.txt'
 
 
 def read_config(file_path):
