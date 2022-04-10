@@ -1,7 +1,7 @@
 -------------------------------------------------------------------------------
-Author: saw008
-Estimated time taken: 8 hours
-Last edited: 2019-11-11--17:50
+Author: saw008  
+Estimated time taken: 8 hours  
+Last edited: 2019-11-11--17:50  
 -------------------------------------------------------------------------------
 The project is about 'local alignment' & 'global aligment'.
 
